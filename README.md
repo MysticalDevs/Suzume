@@ -16,5 +16,21 @@ This project is open-sourced for all explorers and admirers of *Suzume*. Feel fr
 
 ---
 
-**Crafted with inspiration and wonder by Murali**  
-*"A journey through code, where every line speaks to the heart."*
+<h1 align="center">Suzume-Inspired Journey 🚪✨</h1>
+
+<p align="center">
+  <b>Crafted with inspiration and wonder by <a href="https://github.com/muralibotz">@muralibotz</a></b><br>
+  <i>"A journey through code, where every line speaks to the heart."</i>
+</p>
+
+
+
+<p align="center">
+  <a href="https://muralibotz.github.io/suzume">
+    <img src="https://img.shields.io/badge/Visit%20the%20Site-ff69b4?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+---
+
+**Developer :** Murali
