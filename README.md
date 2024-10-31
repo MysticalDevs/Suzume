@@ -2,6 +2,8 @@
 
 > "The journey to close the doors, unlocks the heart."
 
+![Suzume](./resources/img/suzume2.png)
+
 Welcome to this special project inspired by the mesmerizing world of *Suzume*. This repository isn't just code it's a gateway to adventure, stories, and the spirit of exploration.
 
 ### About 🌏
