@@ -1,4 +1,4 @@
-# Suzume Fan Page 🌸
+<h1 align="center">Suzume Fan Page 🧬</h1>
 
 > "The journey to close the doors, unlocks the heart."
 
