@@ -19,7 +19,7 @@ This project is open-sourced for all explorers and admirers of *Suzume*. Feel fr
 <h1 align="center">Suzume Movie Inspired Journey 🚪✨</h1>
 
 <p align="center">
-  <b>Crafted with inspiration and wonder by <a href="https://github.com/muralibotz">@muralibotz</a></b><br>
+  <b>Crafted with inspiration and wonder by <a href="https://github.com/muralibotz">@MuraliBotz</a></b><br>
   <i>"A journey through code, where every line speaks to the heart."</i>
 </p>
 
