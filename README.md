@@ -19,14 +19,14 @@ This project is open-sourced for all explorers and admirers of *Suzume*. Feel fr
 <h1 align="center">Suzume Movie Inspired Journey🚪</h1>
 
 <p align="center">
-  <b>Crafted with inspiration and wonder by <a href="https://github.com/muralibotz">@MuraliBotz</a></b><br>
+  <b>Crafted with inspiration and wonder by <a href="https://github.com/MysticalDevs">Murali</a></b><br>
   <i>"A journey through code, where every line speaks to the heart."</i>
 </p>
 
 
 
 <p align="center">
-  <a href="https://muralibotz.github.io/suzume">
+  <a href="https://MysticalDevs.github.io/suzume">
     <img src="https://img.shields.io/badge/Visit%20the%20Site-ff69b4?style=for-the-badge&logo=github">
   </a>
 </p>
