@@ -26,7 +26,7 @@ This project is open-sourced for all explorers and admirers of *Suzume*. Feel fr
 
 
 <p align="center">
-  <a href="https://MysticalDevs.github.io/suzume">
+  <a href="https://MysticalDevs.github.io/Suzume">
     <img src="https://img.shields.io/badge/Visit%20the%20Site-ff69b4?style=for-the-badge&logo=github">
   </a>
 </p>
